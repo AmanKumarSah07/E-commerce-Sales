@@ -20,7 +20,7 @@ The report provides interactive dashboards and visualizations to uncover insight
 - Data Source: E-Commerce Sales dataset (2016)  
 
 ## 📂 Project Files
-- f6123f1e-8d8f-48b0-86c7-d77758252899.pbix → Power BI dashboard file  
+- 'E-commerce Sales.pbix' → Power BI dashboard file  
 
 ## 🚀 How to Use
 1. Download the .pbix file from this repository.  
